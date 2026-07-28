@@ -1,2 +1,2 @@
 What is the difference between WHERE and HAVING clause when filtering in a data query?
-WHERE clause filters data before any grouping or aggregation happens, while Having filters the data after the grouping and aggregations are complete. 
+WHERE clause filters data before any grouping or aggregation happens, while HAVING filters the data after the grouping and aggregations are complete. 
